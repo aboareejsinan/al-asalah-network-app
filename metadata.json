@@ -1,0 +1,6 @@
+{
+  "name": "شبكة الأصالة",
+  "description": "Al Asalah Digital Gateway",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
